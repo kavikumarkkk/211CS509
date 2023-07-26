@@ -24,10 +24,10 @@ const TrainSchedule = () => {
   };
 
   return (
-    <div>
+    <div> 
       <h1>Train Schedule</h1>
       <table>
-        <thead>
+        <thead> 
           <tr>
             <th>Train Name</th>
             <th>Train Number</th>
